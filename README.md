@@ -1,2 +1,6 @@
 # R Assignment
-This repositry contains 
+This repository contains 40 files:
+* 10 maize group files ordered in decreasing SNP positions, for each chromosome
+* 10 maize group files ordered in increasing SNP positions, for each chromosome
+* 10 teosinte group files ordered in decreasing SNP positions, for each chromosome
+* 10 teosinte group files ordered in increasing SNP positions, for each chromosome
