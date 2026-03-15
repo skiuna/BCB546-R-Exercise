@@ -1,1 +1,2 @@
-# BCB546-R-Exercise
+# R Assignment
+This repositry contains 
